@@ -1,5 +1,6 @@
 import markdown as md
 import random
+import math
 from django.shortcuts import render,redirect
 from django.http import HttpResponse
 from . import util
